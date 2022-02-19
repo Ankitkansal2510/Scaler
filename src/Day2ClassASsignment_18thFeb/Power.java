@@ -1,4 +1,4 @@
-package DayThreeClassASsignment_18thFeb;
+package Day2ClassASsignment_18thFeb;
 
 /***
  *
