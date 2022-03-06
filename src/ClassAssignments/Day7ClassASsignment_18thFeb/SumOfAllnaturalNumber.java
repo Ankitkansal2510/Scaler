@@ -1,4 +1,4 @@
-package ClassAssignments.Day3ClassASsignment_18thFeb;
+package ClassAssignments.Day7ClassASsignment_18thFeb;
 
 import java.util.Scanner;
 /**
