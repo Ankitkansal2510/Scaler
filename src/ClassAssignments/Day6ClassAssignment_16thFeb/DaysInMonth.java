@@ -1,4 +1,4 @@
-package ClassAssignments.Day2ClassAssignment_16thFeb;
+package ClassAssignments.Day6ClassAssignment_16thFeb;
 /*
 * You are given an integer A.
 

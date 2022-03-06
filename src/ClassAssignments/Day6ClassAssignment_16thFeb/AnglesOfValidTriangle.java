@@ -1,4 +1,4 @@
-package ClassAssignments.Day2ClassAssignment_16thFeb;
+package ClassAssignments.Day6ClassAssignment_16thFeb;
 /**
  * You are given 3 integer angles(in degrees) A, B and C of a triangle. You have to tell whether the triangle is valid or not.
  *

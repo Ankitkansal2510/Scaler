@@ -1,4 +1,4 @@
-package ClassAssignments.Day2ClassAssignment_16thFeb;
+package ClassAssignments.Day6ClassAssignment_16thFeb;
 /*
 * Write a program to input from user three numbers(A, B & C) representing side lengths of a triangle.
 
