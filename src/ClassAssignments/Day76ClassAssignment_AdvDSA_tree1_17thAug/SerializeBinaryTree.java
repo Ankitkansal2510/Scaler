@@ -81,6 +81,7 @@ public class SerializeBinaryTree {
         first.right=fourth;
         second.right=fifth;*/
 
+
         root.left=first;
         root.right=second;
         second.left=third;
